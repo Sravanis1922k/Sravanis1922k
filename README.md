@@ -54,6 +54,19 @@ Multi-instance neural network for disease risk prediction on real-world healthca
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sravanis1922k&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Sravani's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanis1922k&layout=compact&hide_border=true&theme=default" alt="Top Languages" width="38%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sravanis1922k&hide_border=true&theme=default" alt="GitHub Streak" width="55%" />
+</p>
+
+---
+
 ## 📄 Experience
 
 - **ML Engineer** @ Cigna Healthcare *(Apr 2024 – Present)*
